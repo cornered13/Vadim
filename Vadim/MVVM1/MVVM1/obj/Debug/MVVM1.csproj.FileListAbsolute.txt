@@ -1,0 +1,16 @@
+D:\19\Common\MVVM1\MVVM1\obj\Debug\MVVM1.csproj.AssemblyReference.cache
+D:\19\Common\MVVM1\MVVM1\obj\Debug\MVVM1.csproj.SuggestedBindingRedirects.cache
+D:\19\Common\MVVM1\MVVM1\obj\Debug\App.g.cs
+D:\19\Common\MVVM1\MVVM1\obj\Debug\MVVM1_MarkupCompile.cache
+D:\19\Common\MVVM1\MVVM1\bin\Debug\MVVM1.exe.config
+D:\19\Common\MVVM1\MVVM1\bin\Debug\MVVM1.exe
+D:\19\Common\MVVM1\MVVM1\bin\Debug\MVVM1.pdb
+D:\19\Common\MVVM1\MVVM1\obj\Debug\MainWindow.g.cs
+D:\19\Common\MVVM1\MVVM1\obj\Debug\MVVM1_MarkupCompile.lref
+D:\19\Common\MVVM1\MVVM1\obj\Debug\MainWindow.baml
+D:\19\Common\MVVM1\MVVM1\obj\Debug\MVVM1.g.resources
+D:\19\Common\MVVM1\MVVM1\obj\Debug\MVVM1.Properties.Resources.resources
+D:\19\Common\MVVM1\MVVM1\obj\Debug\MVVM1.csproj.GenerateResource.cache
+D:\19\Common\MVVM1\MVVM1\obj\Debug\MVVM1.csproj.CoreCompileInputs.cache
+D:\19\Common\MVVM1\MVVM1\obj\Debug\MVVM1.exe
+D:\19\Common\MVVM1\MVVM1\obj\Debug\MVVM1.pdb
